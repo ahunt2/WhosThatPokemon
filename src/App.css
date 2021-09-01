@@ -36,3 +36,60 @@
     transform: rotate(360deg);
   }
 }
+
+.title {
+  height: 150px;
+  margin-top: 10px;
+}
+
+.circle-container {
+  display: block;
+  text-align: center;
+  margin: auto;
+}
+
+.circle-border {
+  display: block;
+  text-align: center;
+  margin: auto;
+  background-color: yellow;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  padding-top: 12px;
+}
+.circle {
+  border-radius: 50%;
+  background-color: white;
+  height: 275px;
+  width: 275px;
+  display: block;
+  text-align: center;
+  margin: auto;
+}
+
+.profile {
+  height: 225px;
+  width: 225px;
+}
+
+.silhouette {
+  filter: brightness(0);
+}
+
+.icon-button {
+  background: transparent;
+  border: none;
+  margin-top: 100px;
+  outline: none;
+}
+
+.icon {
+  height: 100px;
+  width: 100px;
+}
+
+.question-mark {
+  height: 70px;
+  margin-top: 15px;
+}
