@@ -6,7 +6,7 @@ import title from '../imgs/whosThatPokemon.png'
 const Display = () => {
     return (
         <div>
-            <img className='title' src={title} />
+            <img className='title' alt='title' src={title} />
             <Pokemon />
             <Submission />
             <div style={{ padding: "20px"}}>
