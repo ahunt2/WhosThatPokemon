@@ -9,6 +9,6 @@ A live version of the app can be found at [Who's That Pokemon] (https://whosthat
 
 ### Screen Shots
 
-![silhouette] (https://github.com/ahunt2/WhosThatPokemon/blob/main/screenshots/silhouette.png)
+![silhouette] (https://github.com/ahunt2/WhosThatPokemon/blob/main/screenshots/silhouette.png?raw=true)
 
-![revealed] (https://github.com/ahunt2/WhosThatPokemon/blob/main/screenshots/revealed.png)
+![revealed] (https://github.com/ahunt2/WhosThatPokemon/blob/main/screenshots/revealed.png?raw=true)
