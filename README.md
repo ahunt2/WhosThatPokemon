@@ -5,7 +5,9 @@ played in between commercial breaks, where you would have to guess which
 pokemon belonged to a silhouetted image on the screen.  This app was made
 to recreate that game with a ReactJS web application with some bonus features.
 
-A live version of the app can be found at https://whosthatpokemonguessinggame.netlify.app/
+## Demo
+
+A live version of the app can be found [here](https://ahunt2-pokemon.netlify.app/)
 so you can try it out yourself!
 
 ### Screen Shots
